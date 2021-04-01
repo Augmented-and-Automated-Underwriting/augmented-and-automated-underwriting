@@ -4,7 +4,7 @@ A final Year Project about Augmented and Automated  Underwriting in Insurance us
 ## Project Members
 - Kyaka Herman Ceaser
 - Ddombo Nasser
-- Obadia
+- Olara Obadia Samuel
 - Wanda Eric
 
 ## To Do
