@@ -1,2 +1,4 @@
 *.tmp
 ~$*.doc*
+venv/
+__pycache__
